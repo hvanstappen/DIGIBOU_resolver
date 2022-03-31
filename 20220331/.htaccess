@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule 1sgShp$ https://museumcollectie.mechelen.be/internetserver/dispatcher.aspx?action=detail&database=ChoiceCollect&priref=1 [R=302,NC,NE,L]
+RewriteRule DVXMpZ$ https://museumcollectie.mechelen.be/internetserver/dispatcher.aspx?action=detail&database=ChoiceCollect&priref=2 [R=302,NC,NE,L]
+RewriteRule eYF0sH$ https://museumcollectie.mechelen.be/internetserver/dispatcher.aspx?action=detail&database=ChoiceCollect&priref=3 [R=302,NC,NE,L]
+RewriteRule QbF6D1$ https://museumcollectie.mechelen.be/internetserver/dispatcher.aspx?action=detail&database=ChoiceCollect&priref=4 [R=302,NC,NE,L]
